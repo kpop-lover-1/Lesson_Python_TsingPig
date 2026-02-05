@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "4b18df211f7e2480",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a65d484cafdfad4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9695d4021aacb51",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "_备赛资料/第十五届蓝桥杯大赛软件赛决赛_PA.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第十五届蓝桥杯大赛软件赛决赛_PA"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7599cb702b163f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "61a96b08af8d8e63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5e45679b3e8160f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "c12cfca9bc586638",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "1e8d58c30da7437a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b0198afb24be8517",
+    "type": "split",
+    "children": [
+      {
+        "id": "f16a48295fb81b48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e09132f6fb746ff8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_备赛资料/第十五届蓝桥杯大赛软件赛决赛_PA.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "第十五届蓝桥杯大赛软件赛决赛_PA 的反向链接列表"
+            }
+          },
+          {
+            "id": "b7cce42a149ba8d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_备赛资料/第十五届蓝桥杯大赛软件赛决赛_PA.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "第十五届蓝桥杯大赛软件赛决赛_PA 的出链列表"
+            }
+          },
+          {
+            "id": "7e2311b8dac0bb2b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "738a953c773a83c0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "d036252fd3cdfeb8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_备赛资料/第十五届蓝桥杯大赛软件赛决赛_PA.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "第十五届蓝桥杯大赛软件赛决赛_PA 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "d9695d4021aacb51",
+  "lastOpenFiles": [
+    "练习题/____练习题汇总.md",
+    "_备赛资料/第十五届蓝桥杯大赛软件赛决赛_PA.pdf",
+    "练习题/2945. 蓝桥课程抢购【0-1背包】.pdf",
+    "练习题/2945. 蓝桥课程抢购【0-1背包】.md",
+    "蓝桥杯Python冲刺课_课时6 搜索 & BFS & DFS/Python 课时6.md",
+    "蓝桥杯Python冲刺课_课时4 暴力 & 哈希 & 前缀和/【保研岛】蓝桥杯Python冲刺课：课时4.md",
+    "蓝桥杯Python冲刺课_课时3 贪心 & 排序/2024_CA_省C.训练士兵.md",
+    "蓝桥杯/欢迎.md",
+    "_备赛资料/python算法竞赛模板.pdf",
+    "_备赛资料/python算法竞赛模板.md",
+    "_备赛资料/蓝桥杯16届软件组Python参赛手册.pdf",
+    "_备赛资料/第十五届蓝桥杯大赛软件赛省赛_PA.pdf",
+    "_备赛资料/第十五届蓝桥杯大赛软件赛省赛_CA.pdf"
+  ]
+}
