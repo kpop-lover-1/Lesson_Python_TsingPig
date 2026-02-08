@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c6bcd1af5ec77d18",
+        "id": "d63b9256b9083b22",
         "type": "tabs",
         "children": [
           {
-            "id": "7ff91b5eedcdf4ee",
+            "id": "23481b935011865a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0我的笔记/class2/课堂笔记.md",
+                "file": "0我的笔记/0问题/背单词.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "课堂笔记"
-            }
-          }
-        ]
-      },
-      {
-        "id": "277bf91c8bc9c14c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "614d9056b215378b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0我的笔记/0问题/lab笔记.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lab笔记"
+              "title": "背单词"
             }
           }
         ]
@@ -98,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b0198afb24be8517",
@@ -203,17 +184,28 @@
       "bases:新建数据库": false
     }
   },
-  "active": "614d9056b215378b",
+  "active": "23481b935011865a",
   "lastOpenFiles": [
-    "0我的笔记/0问题/qnh笔记.md",
-    "0我的笔记/0问题/lab笔记.md",
-    "0我的笔记/class2/课堂笔记.md",
-    "Pasted image 20260206195234.png",
+    "Pasted image 20260208105813.png",
+    "0我的笔记/0问题/筛选学习资料标准.md",
+    "0我的笔记/0问题/背单词.md",
+    "0我的笔记/0问题/螺旋矩阵/gemini.md",
+    "0我的笔记/0问题/螺旋矩阵/螺旋矩阵1.md",
+    "0我的笔记/class3/课堂笔记.md",
+    "0我的笔记/class3",
+    "0我的笔记/0问题/螺旋矩阵/deepseek.md",
     "0我的笔记/class2/练习代码.md",
+    "0我的笔记/0问题/螺旋矩阵",
+    "Pasted image 20260207152647.png",
+    "0我的笔记/class2/课堂笔记.md",
+    "0我的笔记/0问题/易错点.md",
+    "0我的笔记/0问题/lab笔记.md",
     "0我的笔记/0问题/单词翻译.md",
+    "0我的笔记/0问题/DevHints.io 与 tldr-pages 使用指南.md",
+    "0我的笔记/0问题/qnh笔记.md",
+    "Pasted image 20260206195234.png",
     "备赛资料/python算法竞赛模板.pdf",
     "备赛资料/python算法竞赛模板.md",
-    "0我的笔记/0问题/螺旋矩阵.md",
     "Pasted image 20260206152021.png",
     "Pasted image 20260206143944.png",
     "Pasted image 20260206143935.png",
@@ -226,15 +218,12 @@
     "Pasted image 20260206092338.png",
     "Pasted image 20260206092209.png",
     "Pasted image 20260206092127.png",
-    "Pasted image 20260206091748.png",
     "0我的笔记/class1/课堂笔记.md",
     "0我的笔记/class2",
     "0我的笔记/class1/练习代码.md",
     "0我的笔记/class1",
     "备赛资料/第十五届蓝桥杯大赛软件赛决赛_PA.pdf",
-    "0我的笔记",
     "练习题/____练习题汇总.md",
-    "练习题/2945. 蓝桥课程抢购【0-1背包】.pdf",
     "练习题/2945. 蓝桥课程抢购【0-1背包】.md",
     "蓝桥杯Python冲刺课_课时6 搜索 & BFS & DFS/Python 课时6.md",
     "蓝桥杯Python冲刺课_课时4 暴力 & 哈希 & 前缀和/【保研岛】蓝桥杯Python冲刺课：课时4.md",

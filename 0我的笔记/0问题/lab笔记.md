@@ -154,8 +154,6 @@ deactivate
 
 ## 3. 绝对路径 vs 相对路径
 
-表格
-
 |类型|含义|Linux 示例|Windows 示例|
 |---|---|---|---|
 |**绝对路径**|从根目录开始的完整路径|`/home/user/file.txt`|`C:\Users\user\file.txt`|
@@ -227,8 +225,6 @@ deactivate
 
 ## 7. Unix、类 Unix、Linux 与 Windows
 
-表格
-
 |系统|说明|
 |---|---|
 |**Unix**|1969 年由 AT&T Bell Labs 开发，多用户、多任务操作系统|
@@ -286,10 +282,6 @@ deactivate
 
 ### Python（`venv` / `virtualenv`）
 
-bash
-
-编辑
-
 ```
 # 创建
 python -m venv myenv
@@ -311,11 +303,6 @@ deactivate
 - **Node.js**：依赖自动隔离在项目 `node_modules/`，配合 `package-lock.json`
 - **Rust**：`cargo` 自动管理依赖，无需显式虚拟环境
 - **Conda**（Python/多语言）：
-    
-    bash
-    
-    编辑
-    
     ```
     conda create -n myenv python=3.10
     conda activate myenv
@@ -346,8 +333,6 @@ deactivate
 
 ### 12. 进程、线程与并发模型（简要）
 
-表格
-
 |概念|说明|
 |---|---|
 |**进程（Process）**|独立运行的程序实例，拥有独立内存空间|
@@ -360,8 +345,6 @@ deactivate
 ---
 
 ### 13. 常用命令速查（跨平台）
-
-表格
 
 |功能|Linux/macOS|Windows (CMD)|Windows (PowerShell)|
 |---|---|---|---|
